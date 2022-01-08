@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T06:15:08.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="7hhNYWyfXmq_lM6BXjq0" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-08T06:37:22.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="tK_Z8DgJUFkqKWmqpqpQ" version="16.2.2" type="github">
   <diagram id="PXshtGuQqt06aE1XWQsu" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,6 +177,27 @@
         </mxCell>
         <mxCell id="aJFTNyLtj6Ij6EQ_zWXq-99" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="780" y="320" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="aJFTNyLtj6Ij6EQ_zWXq-100" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="395" width="370" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="aJFTNyLtj6Ij6EQ_zWXq-101" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Token Contract(TC)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="360" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aJFTNyLtj6Ij6EQ_zWXq-114" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="630" y="440" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aJFTNyLtj6Ij6EQ_zWXq-115" value="User Address" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="650" y="455" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="aJFTNyLtj6Ij6EQ_zWXq-117" value="Balance" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="810" y="455" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="aJFTNyLtj6Ij6EQ_zWXq-118" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="777.5" y="502.5" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="aJFTNyLtj6Ij6EQ_zWXq-119" value="Balance List" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=14;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="745" y="402.86" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
