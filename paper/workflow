@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T12:31:54.298Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="W7-2sQVmrUHqopXdKwI8" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T12:34:47.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Ow5pVf5TL7VHfGjyhGo0" version="16.6.4" type="github">
   <diagram id="uNdfoAUdKri5k2JLe3zN" name="Page-1">
     <mxGraphModel dx="1865" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
           <mxGeometry x="720" y="230" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="565K9YSG7y0lxRM4yl-e-51" value="Smart Contracts for Knowledge Confirmation&amp;nbsp;" style="shape=card;whiteSpace=wrap;html=1;fontSize=14;size=20;" vertex="1" parent="1">
-          <mxGeometry x="470" y="300" width="290" height="40" as="geometry" />
+          <mxGeometry x="480" y="300" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="565K9YSG7y0lxRM4yl-e-52" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;fillColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -193,9 +193,9 @@
         <mxCell id="565K9YSG7y0lxRM4yl-e-45" value="Review Task Solution" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#000000;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="520" y="146" width="138" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="565K9YSG7y0lxRM4yl-e-75" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;fillColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.91;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="565K9YSG7y0lxRM4yl-e-51" target="565K9YSG7y0lxRM4yl-e-72">
+        <mxCell id="565K9YSG7y0lxRM4yl-e-75" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;fillColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="565K9YSG7y0lxRM4yl-e-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="734" y="300" as="sourcePoint" />
             <mxPoint x="440" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
