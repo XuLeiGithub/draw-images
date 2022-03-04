@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T06:46:46.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="cUCbYXYypD9yfllAgsDL" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T06:48:09.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="4T-OJU5KFZacNz73AGhN" version="16.6.4" type="github">
   <diagram id="7jR6Keo69IobQ_tcII59" name="Page-1">
     <mxGraphModel dx="1038" dy="1660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="uptqLk63YYaSDPudZ-jY-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="-500" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="uptqLk63YYaSDPudZ-jY-15" value="&lt;b&gt;Confirmation&lt;br&gt;Records&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uptqLk63YYaSDPudZ-jY-15" value="&lt;b&gt;Confirmation&lt;br&gt;Contract&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="427" y="-495" width="66" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uptqLk63YYaSDPudZ-jY-16" value="&lt;b&gt;Confirmation&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -120,7 +120,7 @@
           <mxGeometry x="310" y="-710" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uptqLk63YYaSDPudZ-jY-32" value="&lt;b&gt;Query and Verificatoin&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-574" width="140" height="20" as="geometry" />
+          <mxGeometry x="320.5" y="-574" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uptqLk63YYaSDPudZ-jY-33" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uptqLk63YYaSDPudZ-jY-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -172,14 +172,14 @@
             <mxPoint x="390" y="-500" as="sourcePoint" />
             <mxPoint x="605" y="-510" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="605" y="-530" />
-              <mxPoint x="550" y="-530" />
+              <mxPoint x="605" y="-550" />
+              <mxPoint x="550" y="-550" />
               <mxPoint x="550" y="-435" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uptqLk63YYaSDPudZ-jY-46" value="Record&amp;nbsp; Payment Information" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="477" y="-445" width="180" height="20" as="geometry" />
+          <mxGeometry x="477" y="-465" width="180" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
