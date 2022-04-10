@@ -1,1 +1,133 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T15:30:15.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" version="17.4.1" etag="02mFsO0lYem0K0KmqspH" type="github"><diagram id="Bl109z5hmRngJw-dbHZm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-10T15:58:38.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="VzIDJ1w695HhvyWznoiU" version="17.4.1" type="github">
+  <diagram id="Bl109z5hmRngJw-dbHZm" name="Page-1">
+    <mxGraphModel dx="940" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="530" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-2" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;任务记录&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;fontSize=18;" edge="1" parent="1" source="hWTr-CRngiTzV4-cWtSb-3" target="hWTr-CRngiTzV4-cWtSb-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="170" width="130" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-4" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;任务名称&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="155" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-5" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;任务详情描述&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="155" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-6" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;任务专业类别&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="155" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-8" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;任务截止时间&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="155" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-9" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;任务状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="155" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;fontSize=18;" edge="1" parent="1" source="hWTr-CRngiTzV4-cWtSb-10" target="hWTr-CRngiTzV4-cWtSb-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="170" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;fontSize=18;" edge="1" parent="1" source="hWTr-CRngiTzV4-cWtSb-17" target="hWTr-CRngiTzV4-cWtSb-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="170" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-19" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;任务审核者地址&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="180" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-20" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;任务审核者签名&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="210" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-21" value="......" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="185" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-23" value="......" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="535" y="240" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;fontSize=18;" edge="1" parent="1" source="hWTr-CRngiTzV4-cWtSb-24" target="hWTr-CRngiTzV4-cWtSb-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="300" y="300" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-25" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;任务完成者地址&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="308.75" y="320" width="152.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-26" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;任务完成者签名&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="308.75" y="350" width="152.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-27" value="......" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="355" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-28" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;任务发布者地址&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="308.75" y="180" width="152.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-29" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;任务发布者签名&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="308.75" y="245" width="152.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-30" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;解决方案合约地址&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="308.75" y="380" width="152.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;fontSize=18;" edge="1" parent="1" source="hWTr-CRngiTzV4-cWtSb-32" target="hWTr-CRngiTzV4-cWtSb-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="150" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-33" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;用户地址&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="285" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-34" value="&lt;font face=&quot;宋体&quot;&gt;用户信誉度押金&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="315" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-35" value="......" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="535" y="345" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-36" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;任务关联节点&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="155" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;fontSize=18;" edge="1" parent="1" source="hWTr-CRngiTzV4-cWtSb-37" target="hWTr-CRngiTzV4-cWtSb-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;fontSize=18;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="375" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-38" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;任务完成者限制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="380" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-39" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;任务审核者限制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="420" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-40" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;任务描述信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="235" width="30" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-42" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;任务发布者信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="80" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-44" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot; style=&quot;font-weight: normal&quot;&gt;任务完成者信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;dashed=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="490" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-46" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;任务审核者信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="205" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-48" value="&lt;font face=&quot;宋体&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;任务押金信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="306.25" width="130" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hWTr-CRngiTzV4-cWtSb-50" value="任务限制信息" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="402.5" width="130" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
