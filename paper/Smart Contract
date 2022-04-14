@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T14:06:45.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="HkOsPnY-3dyuSZxg4k_D" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T03:36:53.652Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="woGvybiU8GH0EGDZKu6c" version="17.4.3" type="github">
   <diagram id="PXshtGuQqt06aE1XWQsu" name="Page-1">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="aJFTNyLtj6Ij6EQ_zWXq-10" value="UC address" style="ellipse;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="501" y="274.36" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aJFTNyLtj6Ij6EQ_zWXq-11" value="Knowledge Crowdsourcing Contract(KCSC)" style="rounded=0;fontSize=15;strokeColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="aJFTNyLtj6Ij6EQ_zWXq-11" value="Knowledge Crowdsourcing Contract(KCC)" style="rounded=0;fontSize=15;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="230" y="194.36" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aJFTNyLtj6Ij6EQ_zWXq-13" value="..." style="rounded=0;fontSize=20;fontStyle=1;strokeColor=none;" parent="1" vertex="1">
@@ -145,7 +145,7 @@
         <mxCell id="aJFTNyLtj6Ij6EQ_zWXq-76" value="" style="rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="616.5" y="746" width="370" height="194" as="geometry" />
         </mxCell>
-        <mxCell id="aJFTNyLtj6Ij6EQ_zWXq-82" value="Knowledge Confirmation Contract(KCC)" style="rounded=0;fontSize=15;strokeColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="aJFTNyLtj6Ij6EQ_zWXq-82" value="Knowledge Authentication Contract(KAC)" style="rounded=0;fontSize=15;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="616.5" y="711" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aJFTNyLtj6Ij6EQ_zWXq-86" value="Knowledge List" style="rounded=0;labelBorderColor=none;fontSize=14;strokeColor=none;" parent="1" vertex="1">
@@ -202,40 +202,40 @@
         <mxCell id="aJFTNyLtj6Ij6EQ_zWXq-119" value="Balance List" style="rounded=0;labelBorderColor=none;fontSize=14;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="355" y="792.86" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sQQ2sr5ubv39rsOSUW9M-1" value="" style="rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="sQQ2sr5ubv39rsOSUW9M-1" value="" style="rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="616.5" y="515" width="370" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="sQQ2sr5ubv39rsOSUW9M-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="sQQ2sr5ubv39rsOSUW9M-1" target="sQQ2sr5ubv39rsOSUW9M-1">
+        <mxCell id="sQQ2sr5ubv39rsOSUW9M-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="sQQ2sr5ubv39rsOSUW9M-1" target="sQQ2sr5ubv39rsOSUW9M-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sQQ2sr5ubv39rsOSUW9M-3" value="Solution Contract(SC)" style="rounded=0;fontSize=15;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="sQQ2sr5ubv39rsOSUW9M-3" value="Solution Contract(SC)" style="rounded=0;fontSize=15;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="616.5" y="480" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sQQ2sr5ubv39rsOSUW9M-4" value="TC address" style="rounded=0;labelBorderColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="sQQ2sr5ubv39rsOSUW9M-4" value="TC address" style="rounded=0;labelBorderColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="632" y="530" width="99" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sQQ2sr5ubv39rsOSUW9M-5" value="requester address" style="rounded=0;labelBorderColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="sQQ2sr5ubv39rsOSUW9M-5" value="requester address" style="rounded=0;labelBorderColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="744.75" y="530" width="113.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sQQ2sr5ubv39rsOSUW9M-6" value="worker address" style="rounded=0;labelBorderColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="sQQ2sr5ubv39rsOSUW9M-6" value="worker address" style="rounded=0;labelBorderColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="872" y="530" width="99" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sQQ2sr5ubv39rsOSUW9M-7" value="Solution Details" style="rounded=0;labelBorderColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="sQQ2sr5ubv39rsOSUW9M-7" value="Solution Details" style="rounded=0;labelBorderColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="632" y="570" width="339" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sQQ2sr5ubv39rsOSUW9M-8" value="" style="rounded=0;labelBorderColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="sQQ2sr5ubv39rsOSUW9M-8" value="" style="rounded=0;labelBorderColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="632" y="620" width="339" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sQQ2sr5ubv39rsOSUW9M-9" value="Reviewer List" style="rounded=0;labelBorderColor=none;fontSize=14;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="sQQ2sr5ubv39rsOSUW9M-9" value="Reviewer List" style="rounded=0;labelBorderColor=none;fontSize=14;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="741.5" y="626" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sQQ2sr5ubv39rsOSUW9M-10" value="reviewer address" style="rounded=0;labelBorderColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="sQQ2sr5ubv39rsOSUW9M-10" value="reviewer address" style="rounded=0;labelBorderColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="655.5" y="650" width="121" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sQQ2sr5ubv39rsOSUW9M-12" value="Evaluation Score" style="rounded=0;labelBorderColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="sQQ2sr5ubv39rsOSUW9M-12" value="Evaluation Score" style="rounded=0;labelBorderColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="810" y="650" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sQQ2sr5ubv39rsOSUW9M-13" value="..." style="rounded=0;fontSize=20;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="sQQ2sr5ubv39rsOSUW9M-13" value="..." style="rounded=0;fontSize=20;fontStyle=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="776.5" y="680" width="50" height="16" as="geometry" />
         </mxCell>
       </root>
